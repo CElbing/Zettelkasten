@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "a0596a4b8c1d3943",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab1c181d4130ab23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81d17a80cd0de461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Derivations (Main Notes)/Religion/Who Wrote Romans.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Who Wrote Romans"
+            }
+          },
+          {
+            "id": "3f652e32b01d4573",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Derivations (Main Notes)/AWS SAA-C03 Certification/IAM Permissions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IAM Permissions"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7c726c0112c483d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8956f8f5b8a0b9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f973e08ed1b4b56b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6ce74b6dd1a4736d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "091924f9a0b10ae1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dfde5a58d6416367",
+    "type": "split",
+    "children": [
+      {
+        "id": "806ce45c19002450",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9f39b4fd93809b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1071ecc340e32ad9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0a2155110fd5d5bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1f9151c9f0fc46e7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "12ef832be3e66ca7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "3f652e32b01d4573",
+  "lastOpenFiles": [
+    "Derivations (Main Notes)/AWS SAA-C03 Certification/IAM Introduction.md",
+    "Derivations (Main Notes)/AWS SAA-C03 Certification/IAM Permissions.md",
+    "Derivations (Main Notes)/AWS SAA-C03 Certification/Root Account.md",
+    "Derivations (Main Notes)/AWS SAA-C03 Certification/AWS Global Infrastructure.md",
+    "Derivations (Main Notes)/AWS SAA-C03 Certification/AWS Points of Presence (Edge Locations).md",
+    "Derivations (Main Notes)/AWS SAA-C03 Certification/AWS Cloud Use Cases.md",
+    "Tags (Topics)/AWS SAA-C03 Certification.md",
+    "Tags (Topics)/AWS.md",
+    "Tags (Topics)/Apostle Paul.md",
+    "Derivations (Main Notes)/Religion/Romans [1] [16-17].md",
+    "Derivations (Main Notes)/AWS SAA-C03 Certification",
+    "Derivations (Main Notes)/Religion/Romans [1] [11-12].md",
+    "Derivations (Main Notes)/Religion/Romans 1;11-12.md",
+    "Tags (Topics)/Holy Bible.md",
+    "Tags (Topics)/The Book of Romans.md",
+    "Derivations (Main Notes)/Religion/Who Wrote Romans.md",
+    "Templates/Default Template.md",
+    "Derivations (Main Notes)/Religion/test.md",
+    "Derivations (Main Notes)/Religion/test with spaces.md",
+    "Derivations (Main Notes)/Religion",
+    "Adversaria (Random Notes)/Test.md",
+    "Adversaria (Random Notes)/test.md",
+    "Untitled.md",
+    "Adversaria (Random Notes)/Random Note.md",
+    "Adversaria (Random Notes)/Untitled 1.md",
+    "Derivations (Main Notes)/Untitled.md",
+    "Untitled 1.md",
+    "Templates",
+    "Derivations (Main Notes)",
+    "Tags (Topics)",
+    "Provenance (Sources)",
+    "Adversaria (Random Notes)",
+    "Welcome.md"
+  ]
+}
