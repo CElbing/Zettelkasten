@@ -1,7 +1,7 @@
 
 Date of Origin: 2026-05-13 13:17
-Recent Changes: 2026-05-13 13:17
-Tags: [[AWS]] [[Root Account]] [[AWS SAA-C03 Certification]]
+Recent Changes: 2026-09-15 12:45
+Tags: [[AWS]] [[Root Account]] [[AWS Certified Developer Associate Certification (DVA-C02)]]
 
 ---
 

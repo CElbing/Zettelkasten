@@ -1,7 +1,7 @@
 
 Date of Origin: 2026-05-13 11:22
 Recent Changes: 2026-05-13 11:22
-Tags: [[AWS]] [[AWS SAA-C03 Certification]] [[AWS Global Infrastructure]]
+Tags: [[AWS]] [[AWS Certified Developer Associate Certification (DVA-C02)]] [[AWS Global Infrastructure]]
 
 ---
 

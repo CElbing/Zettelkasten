@@ -1,7 +1,7 @@
 
 Date of Origin: 2026-05-13 13:23
 Recent Changes: 2026-05-13 13:23
-Tags: [[AWS]] [[AWS SAA-C03 Certification]]
+Tags: [[AWS]] [[AWS Certified Developer Associate Certification (DVA-C02)]]
 
 ---
 Users or Groups can be assigned JSON documents called policies.

@@ -1,7 +1,7 @@
 
 Date of Origin: 2026-05-13 10:59
 Recent Changes: 2026-05-13 10:59
-Tags: [[AWS]] [[AWS SAA-C03 Certification]] [[AWS Points of Presence (Edge Locations)]]
+Tags: [[AWS]] [[AWS Certified Developer Associate Certification (DVA-C02)]] [[AWS Points of Presence (Edge Locations)]]
 
 ---
 
