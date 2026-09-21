@@ -1,7 +1,7 @@
 
 Date of Origin: 2026-05-13 13:19
 Recent Changes: 2026-05-13 13:19
-Tags: [[AWS]] [[IAM]] [[AWS Certified Developer Associate Certification (DVA-C02)]]
+Tags: [[AWS]] [[AWS Certified Developer Associate Certification (DVA-C02)]] 
 
 ---
 
