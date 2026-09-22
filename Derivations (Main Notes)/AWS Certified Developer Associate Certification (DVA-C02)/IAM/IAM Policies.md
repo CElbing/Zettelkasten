@@ -13,7 +13,8 @@ Users inherit the policies assigned to the groups they are apart of. Users in mu
 If a user is not assigned to a group they can have their own [[inline policy]]
 
 The structure of a IAM policy consists of the following:
-- Version: policy language version, always include "2012-10-17"
+- Version: policy language version, always include "2012-10-17" 
+	- **THIS IS NOT PART OF STATEMENT** 
 - *Id: an identifier for the policy (optional)*
 - **Statement: one or more individual statements (required)**
 	- Statements consist of:
